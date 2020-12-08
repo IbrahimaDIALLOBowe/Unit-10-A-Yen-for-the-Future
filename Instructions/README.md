@@ -35,7 +35,7 @@ The following performance metrics were computed:
 
 |Metric| In-Sample |Out-Of-Sample|
 |-|-|-|
-|Mean Squared Error (MSE) |0.5963660785073426| 0.5963660785073426|
+|Mean Squared Error (MSE) |0.35565249959422596|0.17262635470120388|
 |Root Mean Squared Error|0.5963660785073426|0.4154832784856737|
 
 
